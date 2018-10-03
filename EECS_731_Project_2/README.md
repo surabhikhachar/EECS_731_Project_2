@@ -1,7 +1,9 @@
 EECS_731_Project_2
 ==============================
 
-To be or not to be
+This project exemplifies analysis done on a Shakespeare data set. It includes feature engineering of the various features that were used and utilizing a random forest classifier to predict the player of a Shakespeare play. 
+
+Scikit Learn was used as the framework for classification. 
 
 Project Organization
 ------------
